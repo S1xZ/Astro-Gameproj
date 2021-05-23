@@ -35,7 +35,6 @@ public class Player extends CollidableEntity {
 		this.y = y;
 		this.radius = (int) (sprite.getWidth()/2);
 		this.health = 5;
-		System.out.println(this.isVisible());
 	}
 
 	private void forward() 

@@ -50,7 +50,7 @@ public class Main extends Application{
 		root.getChildren().add(gameScreen);
 		
 		primaryStage.setScene(mainMenuScene);
-		primaryStage.setTitle("Astro");
+		primaryStage.setTitle("Aestro");
 		primaryStage.setResizable(false);
 		primaryStage.show();
 		
